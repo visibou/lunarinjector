@@ -2,7 +2,7 @@
 Lunar is a safe and easy to use DLL Injector.
 
 ## Info
-Lunar shows you all the available processes and **DOESN'T** get's flagged by Windows Defender. Other anti-virus might flag it, but it's 100% safe to use.
+Lunar shows you all the available processes and **DOESN'T** gets flagged by Windows Defender. Other anti-virus might flag it, but it's 100% safe to use.
 
 ## Preview
 
