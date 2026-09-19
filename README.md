@@ -21,7 +21,4 @@ Download it [here](https://github.com/manovisible/lunarinjector/releases).
 ## Credits
 
 ### Frans Bouma 
-For the [IGCS](https://github.com/FransBouma/InjectableGenericCameraSystem) Source Code (used parts of the source code and kinda copied the design).
-
-## Additional Stuff
-Frans, if you ever read this, this is **NON-PROFIT**, and I credited you properly. If there is any problem, please contact me and I will delete this repository IMMEDIATELY.
+For the [IGCS](https://github.com/FransBouma/InjectableGenericCameraSystem) source.
